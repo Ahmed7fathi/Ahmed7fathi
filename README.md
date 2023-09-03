@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Ahmed Fathy
 - 👀 I’m interested in **Web-Development**
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **C++**
 - 💞️ I’m looking to collaborate with other content creators
 
 
@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 <div style="display:flex;gap: 1rem;">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/>
+<!--     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/> -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="45" height="45"/>
     <img src="https://avatars.githubusercontent.com/u/27804?s=200&v=4" alt="django" width="45" height="45"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="45" height="45"/>
